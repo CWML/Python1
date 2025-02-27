@@ -14,6 +14,8 @@ Are you ready to take the first steps in using code to work with data? In this t
 
 This training will be hands-on; come ready to code alongside the instructor. Details about technical setup will be emailed to registrants a few days before the course begins. Please note that registration is required for this event.
 
+The hands on portion is located in the python1_2025_workshop.ipynb jupyter notebook file.  This file can be viewed in github or your preferred jupyter notebook environment. [colab.research.google.com](https://colab.research.google.com) is utilized in the class. 
+
 ### Acknowledgemments
 
 Some of this material, including the inflammation data, is adapted from the [Carpentries](https://software-carpentry.org/lessons/), using a [CC-BY-4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
