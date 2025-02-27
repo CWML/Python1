@@ -34,7 +34,7 @@ Each library we used today has its own documentation, for further reading.
 
 #### Bits and bobs
 - markdown – [guide](https://www.markdownguide.org/) | [cheatsheet](https://www.markdownguide.org/cheat-sheet/)
-- Seaborn Color Palettes - [PyData Tutorial](https://seaborn.pydata.org/tutorial/color_palettes.html_)
+- Seaborn Color Palettes - [PyData Tutorial](https://seaborn.pydata.org/tutorial/color_palettes.html)
 
 ### Python Series from Yale Center for Research Computing
 
