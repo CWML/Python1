@@ -20,7 +20,7 @@ The hands on portion is located in the python1_2025_workshop.ipynb jupyter noteb
 
 Some of this material, including the inflammation data, is adapted from the [Carpentries](https://software-carpentry.org/lessons/), using a [CC-BY-4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
-### Where to go from here(after class):
+### Where to go from here(after class)
 
 Each library builds on the one before it and will be continually utilized as you move down the line.
 
@@ -39,7 +39,7 @@ Each library builds on the one before it and will be continually utilized as you
 - Pandas 10 min intro:
 
     https://pandas.pydata.org/docs/user_guide/10min.html
-    
+
 
 ### General Python Documentation
 - Official Python docs: https://python.org 
