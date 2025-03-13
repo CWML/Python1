@@ -20,6 +20,27 @@ The hands on portion is located in the python1_2025_workshop.ipynb jupyter noteb
 
 Some of this material, including the inflammation data, is adapted from the [Carpentries](https://software-carpentry.org/lessons/), using a [CC-BY-4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
+### Where to go from here(after class):
+
+Each library builds on the one before it and will be continually utilized as you move down the line.
+
+- More Python:
+
+    https://colab.research.google.com/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb
+
+- More Numpy:
+
+    https://numpy.org/doc/stable/user/quickstart.html
+
+- More Matplotlib:
+
+    https://matplotlib.org/stable/users/explain/quick_start.html
+
+- Pandas 10 min intro:
+
+    https://pandas.pydata.org/docs/user_guide/10min.html
+    
+
 ### General Python Documentation
 - Official Python docs: https://python.org 
 - Beginner guide: https://wiki.python.org/moin/BeginnersGuide 
