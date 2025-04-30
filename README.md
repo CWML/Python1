@@ -40,6 +40,10 @@ Each library builds on the one before it and will be continually utilized as you
 
     https://pandas.pydata.org/docs/user_guide/10min.html
 
+- LinkedIn Learning Course on Python Data Analysis:
+
+    - https://www.linkedin.com/learning/python-data-analysis-24296803/from-data-to-insight-with-python
+
 
 ### General Python Documentation
 - Official Python docs: https://python.org 
