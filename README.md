@@ -26,7 +26,7 @@ Course material adapted from:
 
 - https://swcarpentry.github.io/python-novice-inflammation/index.html
 
-Each library builds on the one before it and will be continually utilized as you move down the line.
+These libraries form a powerful toolkit for data analysis in Python. While each serves a distinct purpose, they are frequently used in conjunction, with later libraries often leveraging the capabilities of the earlier ones.
 
 - Python:
 
