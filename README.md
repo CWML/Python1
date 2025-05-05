@@ -22,17 +22,21 @@ Some of this material, including the inflammation data, is adapted from the [Car
 
 ### Where to go from here(after class)
 
+Course material adapted from:
+
+- https://swcarpentry.github.io/python-novice-inflammation/index.html
+
 Each library builds on the one before it and will be continually utilized as you move down the line.
 
-- More Python:
+- Python:
 
     https://colab.research.google.com/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb
 
-- More Numpy:
+- Numpy:
 
     https://numpy.org/doc/stable/user/quickstart.html
 
-- More Matplotlib:
+- Matplotlib:
 
     https://matplotlib.org/stable/users/explain/quick_start.html
 
