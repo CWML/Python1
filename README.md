@@ -14,7 +14,9 @@ Are you ready to take the first steps in using code to work with data? In this t
 
 This training will be hands-on; come ready to code alongside the instructor. Details about technical setup will be emailed to registrants a few days before the course begins. Please note that registration is required for this event.
 
-The hands on portion is located in the python1_2025_workshop.ipynb jupyter notebook file.  This file can be viewed in github or your preferred jupyter notebook environment. [colab.research.google.com](https://colab.research.google.com) is utilized in the class. 
+The hands on portion is located in the python1_2025_workshop.ipynb jupyter notebook file.  This file can be viewed in github or your preferred jupyter notebook environment. [colab.research.google.com](https://colab.research.google.com) is utilized in the class.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CWML/Python1/blob/main/python1_2025_workshop.ipynb) 
 
 ### Acknowledgemments
 
