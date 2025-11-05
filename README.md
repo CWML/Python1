@@ -53,7 +53,8 @@ These libraries form a powerful toolkit for data analysis in Python. While each 
 
 ### General Python Documentation
 - Official Python docs: https://python.org 
-- Beginner guide: https://wiki.python.org/moin/BeginnersGuide 
+- Beginner guide: https://wiki.python.org/moin/BeginnersGuide
+- Python PEP8 style guide: https://peps.python.org/pep-0008/
 - Cheatsheets:
 - Python: https://www.pythoncheatsheet.org/ + https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet 
 - See more helpful learning resources (under Python): https://library.medicine.yale.edu/research-data/learn-work-data 
